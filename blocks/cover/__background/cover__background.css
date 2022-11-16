@@ -11,7 +11,7 @@
   width: 100%;
   max-width: 1184px;
   min-height: 740px;
-  background-image: url(/img/__background.png);
+  background-image: url(../../../img/__background.png);
   background-size: cover;
 
 }
@@ -26,6 +26,7 @@
   left: 0;
   transition: 2s ease-in;
   background-color: #2A2C2F;
+  content: '';
 }
 
 .cover__background:hover::before {
