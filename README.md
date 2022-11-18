@@ -14,5 +14,8 @@
 * БЭМ Nested
 * Псевдоклассы CSS
 
+## [Ссылка на проект &rarr;](https://github.com/phrrr/russian-travel.git)
+
+## [Макет в Figma](hhttps://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634&t=FJKYs8NEEutOi20L-1)
 
 
